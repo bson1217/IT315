@@ -1,11 +1,11 @@
 {
   "Exercises":
   [
-    {"ExerciseName":"Squat","Area":"Lower Body","ExercisePrimaryMuscles":"Quadriceps, Glutes, Hips","ExerciseSecondaryMuscles":"Calves, Hamstrings, Lower Back","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/squat.jpg","ExerciseDescription": "Performed by squatting down with a weight held across the upper back"},
+    {"ExerciseName":"Squat","Area":"Lower Body","ExercisePrimaryMuscles":"Quadriceps, Glutes, Hips","ExerciseSecondaryMuscles":"Calves, Hamstrings, Lower Back","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/squat.jpg","ExerciseDescription": "Performed by squatting down with a weight held across the upper back","ExerciseWebsite": "https://www.google.com"},
 	
-	{"ExerciseName":"Squat","Area":"Lower Body","ExercisePrimaryMuscles":"Quadriceps, Glutes, Hips","ExerciseSecondaryMuscles":"Calves, Hamstrings, Lower Back","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/squat.jpg","ExerciseDescription": "Performed by squatting down with a weight held across the upper back"},
+	{"ExerciseName":"Squat","Area":"Lower Body","ExercisePrimaryMuscles":"Quadriceps, Glutes, Hips","ExerciseSecondaryMuscles":"Calves, Hamstrings, Lower Back","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/squat.jpg","ExerciseDescription": "Performed by squatting down with a weight held across the upper back","ExerciseWebsite": "https://www.google.com"},
 	
-	{"ExerciseName":"Squat","Area":"Lower Body","ExercisePrimaryMuscles":"Quadriceps, Glutes, Hips","ExerciseSecondaryMuscles":"Calves, Hamstrings, Lower Back","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/squat.jpg","ExerciseDescription": "Performed by squatting down with a weight held across the upper back"}
+	{"ExerciseName":"Squat","Area":"Lower Body","ExercisePrimaryMuscles":"Quadriceps, Glutes, Hips","ExerciseSecondaryMuscles":"Calves, Hamstrings, Lower Back","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/squat.jpg","ExerciseDescription": "Performed by squatting down with a weight held across the upper back","ExerciseWebsite": "https://www.google.com"},
 	
   ],
   "Status":"OK"
