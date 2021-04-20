@@ -1,5 +1,5 @@
 {
-  "Weightlifting":
+  "Exercises":
   [
     {"ExerciseName":"Squat","Area":"Lower Body","ExercisePrimaryMuscles":"Quadriceps, Glutes, Hips","ExerciseSecondaryMuscles":"Calves, Hamstrings, Lower Back","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/blob/main/squat.jpg","ExerciseDescription": "Performed by squatting down with a weight held across the upper back"},
 	
