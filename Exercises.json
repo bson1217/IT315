@@ -1,8 +1,8 @@
 {
   "Exercises":
   [
-    {"ExerciseName":"Bench Press","ExerciseArea":"Upper Body","ExercisePrimaryMuscles":"Pectorals, Triceps","ExerciseSecondaryMuscles":"Deltoids","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/bench.jpg","ExerciseDescription": "Performed while lying face up on a bench, by
-	pushing the bar away from the chest.","ExerciseWebsite": "https://www.youtube.com/watch?v=gRVjAtPip0Y"},
+    {"ExerciseName":"Bench Press",
+	"ExerciseArea":"Upper Body","ExercisePrimaryMuscles":"Pectorals, Triceps","ExerciseSecondaryMuscles":"Deltoids","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/bench.jpg","ExerciseDescription": "Performed while lying face up on a bench, by pushing the bar away from the chest.","ExerciseWebsite": "https://www.youtube.com/watch?v=gRVjAtPip0Y"},
 		
 	{"ExerciseName":"Lying Hamstring Curls","ExerciseArea":"Lower Body","ExercisePrimaryMuscles":"Hamstrings","ExerciseSecondaryMuscles":"","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/curl.jpg","ExerciseDescription": "Performed while lying face down on a bench, raising weight with the feet in a curling motion towards the buttocks.","ExerciseWebsite": "https://www.youtube.com/watch?v=q1cKTmaeQWo"},
 	
