@@ -14,7 +14,7 @@
 	
 	{"ExerciseName":"Row","ExerciseArea":"Upper Body","ExercisePrimaryMuscles":"Lats","ExerciseSecondaryMuscles":"Biceps","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/row.jpg","ExerciseDescription": "Performed while leaning over, holding a weight and pulling it up towards the abdomen.","ExerciseWebsite": "https://www.youtube.com/watch?v=kBWAon7ItDw"},
 	
-	{"ExerciseName":"Squat","ExerciseArea":"Lower Body","ExercisePrimaryMuscles":"Quadriceps, Glutes, Hips","ExerciseSecondaryMuscles":"Calves, Hamstrings, Lower Back","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/squat.jpg","ExerciseDescription": "Performed by squatting down with a weight held across the upper back","ExerciseWebsite": "https://www.youtube.com/watch?v=bEv6CCg2BC8"},
+	{"ExerciseName":"Squat","ExerciseArea":"Lower Body","ExercisePrimaryMuscles":"Quadriceps, Glutes, Hips","ExerciseSecondaryMuscles":"Calves, Hamstrings, Lower Back","ExerciseImage":"https://raw.githubusercontent.com/bson1217/IT315/main/squat.jpg","ExerciseDescription": "Performed by squatting down with a weight held across the upper back","ExerciseWebsite": "https://www.youtube.com/watch?v=bEv6CCg2BC8"}
 	
 	
   ],
